@@ -1,5 +1,5 @@
 アーケード基板のRetroTINK-4K用プロファイルです。
-整数倍(Interger)になるよう作成しました。
+1440p表示で整数倍(Interger)になるよう作成しました。
 コントロールボックスEASY ARCADE 2、SFC(SNES)用SCARTケーブルでの接続に最適化しています。
 別のコントロールボックスやHD15ケーブル等で接続した場合は要再調整です。
 
@@ -9,7 +9,7 @@ RetroTINK-4KのAuto Gain、Auto Phaseを活用してください。
 注意:EASY ARCADE 2の同期レベルをC側(1Vpp)に設定してください。N側(パススルー）に設定した場合RetroTINK-4Kが故障する恐れがあります。
 
 This is Arcade PCB profile for the RetroTINK-4K.
-It has been created to use integer multiples.
+It has been created to display 1440p at an integer multiple (Integer).
 It is optimized for connection with the EASY ARCADE 2(control box)and SCART cable for SFC (SNES).
 If connecting with a different control box or HD15 cable, readjustments will be required.
 
